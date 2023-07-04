@@ -1,0 +1,24 @@
+class	subclass	color
+Glutamatergic	L2/3 IT	#fed976
+Glutamatergic	L4	#feb24c
+Glutamatergic	L5 IT	#fd8d3c
+Glutamatergic	L5 PT	#fc4e2a
+Glutamatergic	L6 CT	#e31a1c
+Glutamatergic	L6 IT	#bd0026
+Glutamatergic	L6b	#800026
+Glutamatergic	NP	#ffeda0
+Glutamatergic	CR	#ffffcc
+GABAergic	Lamp5	#edf8b1
+GABAergic	Meis2	#c7e9b4
+GABAergic	Pvalb	#7fcdbb
+GABAergic	Serpinf1	#41b6c4
+GABAergic	Sncg	#1d91c0
+GABAergic	Sst	#225ea8
+GABAergic	Vip	#8c6bb1
+Non-Neuronal	Astro	#8e0152
+Non-Neuronal	Macrophage	#cab2d6
+Non-Neuronal	Oligo	#878787
+Non-Neuronal	VLMC	#ffff99
+Endothelial	Endo	#33a02c
+Endothelial	Peri	#b2df8a
+Endothelial	SMC	#fb9a99
